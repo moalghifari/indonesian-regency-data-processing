@@ -1,0 +1,7 @@
+*.csv
+*.py
+
+!main.py
+!all_regency.csv
+!all_transformed_regencies.csv
+!problematic_regencies_fixed.csv
